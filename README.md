@@ -1,2 +1,5 @@
 # SVE_Releases
-SVE Releases
+This repository contains binary releases related to SVE
+
+capture - capture tool binary
+
